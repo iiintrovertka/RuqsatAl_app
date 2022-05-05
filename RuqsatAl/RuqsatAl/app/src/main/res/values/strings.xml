@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RuqsatAl</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="profile">Profile</string>
+    <string name="sign_up">SignUp</string>
+    <string name="fullname">Fullname</string>
+    <string name="email">E-mail</string>
+    <string name="login_here">Already have an account? Login</string>
+    <string name="signup_here">Create a new account? SignUP</string>
+    <string name="main_page">main page</string>
+    <string name="qr_scanner">QR Scanner</string>
+    <string name="calendar">Calendar</string>
+</resources>
